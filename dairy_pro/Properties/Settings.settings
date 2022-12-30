@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="dairy_pro.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="select_music_index" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="company_site_url" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://test1234.com</Value>
+    </Setting>
+    <Setting Name="programmer_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Bleer30</Value>
+    </Setting>
+    <Setting Name="production_year" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2008 - 2022</Value>
+    </Setting>
+    <Setting Name="User_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Admin</Value>
+    </Setting>
+    <Setting Name="User_pass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">111</Value>
+    </Setting>
+    <Setting Name="last_memo_id" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
